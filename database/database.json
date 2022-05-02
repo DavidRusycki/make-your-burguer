@@ -79,134 +79,34 @@
   ],
   "burgers": [
     {
-      "nome": "Matheus Battisti",
-      "carne": "Picanha",
+      "nome": "David",
+      "carne": "Maminha",
       "pao": "Italiano Branco",
       "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
+        "Bacon"
       ],
-      "status": "Finalizado",
-      "id": 1
+      "status": "Em produção",
+      "id": 2
     },
     {
-      "nome": "João Coelho",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
+      "nome": "Miriam",
+      "carne": "Picanha",
+      "pao": "Integral",
       "opcionais": [
-        "Salame",
-        "Cebola roxa"
+        "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 4
     },
     {
-      "nome": "David",
+      "nome": "Alexsandra",
       "carne": "Maminha",
       "pao": "Italiano Branco",
       "opcionais": [
-        "Bacon",
-        "Cheddar"
+        "Bacon"
       ],
-      "status": "solicitado",
+      "status": "Em produção",
       "id": 5
-    },
-    {
-      "nome": "David",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [],
-      "status": "solicitado",
-      "id": 6
-    },
-    {
-      "nome": "David",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [],
-      "status": "solicitado",
-      "id": 7
-    },
-    {
-      "nome": "David",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [],
-      "status": "solicitado",
-      "id": 8
-    },
-    {
-      "nome": "David",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [],
-      "status": "solicitado",
-      "id": 9
-    },
-    {
-      "nome": "David",
-      "carne": "Veggie burger",
-      "pao": "3 Queijos",
-      "opcionais": [],
-      "status": "solicitado",
-      "id": 10
-    },
-    {
-      "nome": "David",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "solicitado",
-      "id": 11
-    },
-    {
-      "nome": "David",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "solicitado",
-      "id": 12
-    },
-    {
-      "nome": "David",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "solicitado",
-      "id": 13
-    },
-    {
-      "nome": "David",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [],
-      "status": "solicitado",
-      "id": 14
-    },
-    {
-      "nome": "David",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [],
-      "status": "solicitado",
-      "id": 15
-    },
-    {
-      "nome": "David",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Tomate"
-      ],
-      "status": "solicitado",
-      "id": 16
     }
   ]
 }
